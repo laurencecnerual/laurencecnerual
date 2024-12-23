@@ -1,31 +1,23 @@
-# About Me
+## About Me
 Hi, I'm Laurence. Thanks for checking out my profile.  
 
 I'm originally from the US, but I've been living in Japan since 2015. 日本語もできます。
 
 Feel free to check out my LinkedIn profile, and if you're interested in getting in touch, connect with me there.
 
-# Technologies
-## Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-- TypeScript
-- Tailwind CSS
+## Technologies
+### Frontend
+- HTML, CSS, JavaScript
+- React, TypeScript, Tailwind CSS
 
-## Backend
-- Node.js
-- Express.js
-- Knex.js
-- Python
-- FastAPI
-- Tortoise ORM
+### Backend
+- Node.js, Express.js, Knex.js
+- Python, FastAPI, Tortoise ORM
 
-## Database
+### Database
 - PostgreSQL
 
-## Deployment
+### Deployment
 - Render
 
 <!--
