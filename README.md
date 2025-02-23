@@ -24,4 +24,4 @@ Feel free to check out my LinkedIn, and if you're interested in getting in touch
 ![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render)
 
 ## LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/laurencecnerual?theme=dark&font=Zen%20Kaku%20Gothic%20Antique&ext=activity)](https://leetcode.com/laurencecnerual)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/laurencecnerual?theme=dark&font=Zen%20Kaku%20Gothic%20Antique)](https://leetcode.com/laurencecnerual)
