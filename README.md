@@ -14,7 +14,7 @@ Feel free to check out my LinkedIn, and if you're interested in getting in touch
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=Typescript) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs) ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express) ![Knex.js](https://img.shields.io/badge/Knex.js-black?style=for-the-badge&logo=knexdotjs) \
+![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=Typescript) ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express) ![Knex.js](https://img.shields.io/badge/Knex.js-black?style=for-the-badge&logo=knexdotjs) \
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=FastAPI) ![Tortoise ORM](https://img.shields.io/badge/Tortoise_ORM-black?style=for-the-badge&logo=tortoiseorm)
 
 ### Database
@@ -23,17 +23,5 @@ Feel free to check out my LinkedIn, and if you're interested in getting in touch
 ### Deployment
 ![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render)
 
-<!--
-**laurencecnerual/laurencecnerual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/laurencecnerual?theme=dark&font=Zen%20Kaku%20Gothic%20Antique&ext=activity)](https://leetcode.com/laurencecnerual)
