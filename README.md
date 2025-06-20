@@ -13,7 +13,7 @@ Feel free to check out my LinkedIn, and if you're interested in getting in touch
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=Typescript) ![JavaScript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python) ![Ruby](https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=ruby) ![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=Html5) ![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=Html5) ![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs) ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express) ![Knex.js](https://img.shields.io/badge/Knex.js-black?style=for-the-badge&logo=knexdotjs) \
